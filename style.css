@@ -1,0 +1,27 @@
+body {
+    background-color: #ffb3c1;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  h1 {
+    color: #a4133c;
+    font-family: 'Young Serif', serif;
+
+    padding-top: 5rem;
+  }
+  
+  .back {
+    background-color: rgba(128, 15, 47);
+    color: #fff;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 3rem;
+    border-radius: 20px;
+    text-align: justify;
+
+  }
+
+  .carousel-item {
+    padding:  2rem;
+  }
